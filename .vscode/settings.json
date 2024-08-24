@@ -17,7 +17,7 @@
   // workbench
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "vs-seti",
-  "workbench.colorTheme": "Pink Fresh",
+  "workbench.colorTheme": "Pink Cat Boo",
 
   // prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
